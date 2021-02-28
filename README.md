@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hamid Montazeri
 
 <!--
 **hamidhandid/hamidhandid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 I am a Flutter developer at Vajehyab. I am also a software engineering student at Shahid Beheshti University. I love mobile programming and flutter.
 
+## Languages & Stats
 [![Hamid Montazeri GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhandid&langs_count=5&theme=tokyonight)]()
 [![Hamid Montazeri GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hamidhandid&count_private=true&theme=tokyonight&showicons=true)]()
+
