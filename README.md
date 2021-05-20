@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Flutter developer at Vajehyab. I am also a software engineering student at Shahid Beheshti University. I love mobile programming and flutter.
+I am a Flutter developer at Vajehyab. I am also a computer engineering student at Shahid Beheshti University. I love mobile programming and flutter.
 
 ## Languages & Stats
 [![Hamid Montazeri GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhandid&langs_count=5&theme=tokyonight)]()
