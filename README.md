@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am a Flutter developer at Fidibo. I studied computer engineering at Shahid Beheshti University. I love mobile programming and flutter.
 
+My Resume: [Resume](https://github.com/hamidhandid/resume/blob/main/resume.md)
+
 ## Languages & Stats
 [![Hamid Montazeri GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhandid&langs_count=5&theme=tokyonight)]()
 [![Hamid Montazeri GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hamidhandid&count_private=true&theme=tokyonight&showicons=true)]()
